@@ -30,7 +30,7 @@ Chat: Token-based authentication with Stream → Instant messaging
 
 📦 Setup
 # Clone repo
-git clone [https://github.com/httpsdevAman/Campus-Management-System](https://github.com/spartanbug050107/sova)
+git clone [(https://github.com/spartanbug050107/sova)]
 
 # Install backend dependencies
 cd backend
